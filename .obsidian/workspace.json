@@ -11,10 +11,14 @@
             "id": "f8aecf07363d0952",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Идеи/Рандомные идеи/Мартенситностареющие стали.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мартенситностареющие стали"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Идеи/Рандомные идеи/Мартенситностареющие стали.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Мартенситностареющие стали"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Идеи/Рандомные идеи/Мартенситностареющие стали.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Мартенситностареющие стали"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Идеи/Рандомные идеи/Мартенситностареющие стали.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Мартенситностареющие стали"
             }
           }
         ]
@@ -165,10 +172,15 @@
   },
   "active": "f8aecf07363d0952",
   "lastOpenFiles": [
-    "Идеи/Рандомные идеи/Рандомные идеи.md",
     "Идеи/Рандомные идеи/Молибден.md",
+    "Идеи/Рандомные идеи/Рандомные идеи.md",
     "Идеи/Рандомные идеи/Мартенситностареющие стали.md",
+    "resources/Арматурный_прокат.jpg.webp",
     "Идеи/Рандомные идеи/Корунд.md",
+    "resources/Red_corundum_fluorescence.jpg",
+    "resources",
+    "куыщгксуы",
+    "Pasted image 20251005121220.png",
     "Идеи/Идеи.md",
     "Идеи/Чистые идеи/Чистые идеи.md",
     "Начнём здесь….md",
