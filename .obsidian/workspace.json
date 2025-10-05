@@ -11,10 +11,10 @@
             "id": "f8aecf07363d0952",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of a"
+              "title": "Outline"
             }
           }
         ]
@@ -164,8 +163,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4894e4de4ee6f902",
+  "active": "f8aecf07363d0952",
   "lastOpenFiles": [
-    "a.md"
+    "Начнём здесь….md",
+    "a.md",
+    "Проблемы/Проблемы.md",
+    "Проблемы",
+    "Идеи/Чистые идеи/Чистые идеи.md",
+    "Идеи/Чистые идеи/Механика",
+    "Идеи/Чистые идеи/Машина",
+    "Идеи/Чистые идеи/Материал",
+    "Идеи/Рандомные идеи/Рандомные идеи.md",
+    "Идеи/Рандомные идеи/Молибден.md",
+    "Идеи/Рандомные идеи/Мартенситностареющие стали.md",
+    "Идеи/Рандомные идеи/Корунд.md",
+    "Идеи/Чистые идеи",
+    "Идеи/Рандомные идеи",
+    "Идеи/Идеи.md",
+    "Идеи"
   ]
 }
